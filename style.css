@@ -1,0 +1,14 @@
+.card .card-body {
+  background-color: pink;
+  padding: 1rem 1.5rem;
+}
+
+h5 {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.card-body button {
+  background-color: rgb(189, 89, 106);
+  border: palevioletred
+}
